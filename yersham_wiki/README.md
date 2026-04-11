@@ -26,6 +26,15 @@
 - [[18-narrative-2025]] — Нарратив 2025: дуга Vibe Coding → SDD
 - [[19-deep-dives-2025]] — Детальные разборы видео 2025 года
 
+## Каталоги видео (по темам)
+
+- [[20-catalog-agi-future]] — AGI, прогнозы, интервью с лидерами (~25 видео)
+- [[21-catalog-agents-claude]] — Агенты, Claude Code, Skills, Co-work (~45 видео)
+- [[22-catalog-methods]] — Context Engineering, SDD, Vibe Coding (~35 видео)
+- [[23-catalog-models-tech]] — Модели, архитектуры, математика (~40 видео)
+- [[24-catalog-philosophy-society]] — Сознание, экономика, биология (~25 видео)
+- [[25-catalog-platforms-infra]] — Платформы, IDE, железо, голос (~30 видео)
+
 ## Хронология канала
 
 ```
