@@ -19,6 +19,12 @@
 - [[10-vibe-coding]] — Vibe Coding и его эволюция
 - [[11-frontier-unrealized]] — Нереализованные идеи мирового масштаба
 - [[12-key-figures]] — Ключевые персоны (Карпати, Холле, Хассабис...)
+- [[13-video-deep-dives]] — Детальный разбор 7 ключевых видео
+- [[14-knowledge-systems]] — RAG vs Knowledge Graphs vs LLM Wiki (Карпати)
+- [[16-biology-medicine]] — Биология, медицина, нейронаука
+- [[17-platforms-tools]] — Платформы и инструменты (Cursor, n8n, OpenClaw...)
+- [[18-narrative-2025]] — Нарратив 2025: дуга Vibe Coding → SDD
+- [[19-deep-dives-2025]] — Детальные разборы видео 2025 года
 
 ## Хронология канала
 
